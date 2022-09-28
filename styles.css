@@ -1,3 +1,5 @@
+/* HEADER */
+
 .Rectangle1{
     width: 1920px;
 	height: 44px;
@@ -78,4 +80,136 @@ color: #FFFFFF;
 
 .instagram{
     padding: 6px 0px 0px 10px;
+}
+
+/* HEADER 2 */
+
+.Rectangle24{
+    width: 1920px;
+    height: 92px;
+    background: #fff;
+    margin: 0px 0px 0px -8px;
+    display: flex;
+}
+
+.bb{
+    display: flex;
+    padding: 10px 0px 0px 280px;
+    width: 85px;
+    height: 69px;
+}
+
+.tuple{
+    white-space: nowrap;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding: 3px 0px 0px 60px;
+}
+.tuple2{
+    white-space: nowrap;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding: 0px 0px 0px 37px;
+}
+.tuple3{
+    white-space: nowrap;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding: 0px 0px 0px 37px;
+}
+.tuple4{
+    white-space: nowrap;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding: 0px 0px 0px 47px;
+}
+.tuple5{
+    white-space: nowrap;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding: 0px 0px 0px 42px;
+}
+.tuple6{
+    white-space: nowrap;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding: 0px 0px 0px 35px;
+}
+.tuple7{
+    white-space: nowrap;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding: 0px 0px 0px 38px;
+}
+.OurDeals{
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding: 0px 0px 0px 59px;
+    gap: 10px;
+    border: 2px solid #0156FF;
+    border-radius: 50px;
+}
+.seacrh{
+    display: flex;
+    padding: 4px 0px 0px 207px;
+    align-items: center;
+    text-align: center;
+}
+.shop{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding: 0px 0px 0px 25px;
+    margin-top: -8px;
+}
+.acc{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding: 4px 0px 0px 28px;
+
 }
