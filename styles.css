@@ -184,18 +184,25 @@ color: #FFFFFF;
     padding: 0px 0px 0px 38px;
 }
 .OurDeals{
-    box-sizing: border-box;
-    display: flex;
-    align-items: center;
-    text-align: center;
-    padding: 0px 0px 0px 59px;
-    gap: 10px;
-    border: 2px solid #0156FF;
-    border-radius: 50px;
+display: flex;
+align-items: center;
+text-align: center;
+padding: 6px 26px 6px 26px;
+margin: 0px 0px 0px 33px;
+border: 2px solid #0156FF;
+color: #0156FF;
+border-radius: 50px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 21px;
 }
 .seacrh{
+    position: absolute;
     display: flex;
-    padding: 4px 0px 0px 207px;
+    padding: 4px 0px 0px 266px;
     align-items: center;
     text-align: center;
 }
