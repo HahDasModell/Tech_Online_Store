@@ -1,0 +1,81 @@
+.Rectangle1{
+    width: 1920px;
+	height: 44px;
+	background: #020202;
+    margin: -8px 0px 0px -8px;
+    display: flex;
+}
+
+.Rect1Text{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    color: #A2A6B0;
+    padding: 0px 0px 0px 259px;
+    /*letter-spacing: 1px;*/
+}
+
+.Rect1Time{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    color: #FFF;
+    padding-left: 13px;
+}
+
+.Addr{
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 18px;
+display: flex;
+align-items: center;
+text-align: center;
+padding-left:320px;
+color: #ACACAC;
+}
+
+.contbtn{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 18px;
+display: flex;
+align-items: center;
+text-align: center;
+padding-left:55px;
+color: #FFF;
+}
+
+.callus{
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height */
+padding-left:293px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.facebook{
+    padding: 6px 0px 0px 33px;
+}
+
+.instagram{
+    padding: 6px 0px 0px 10px;
+}
