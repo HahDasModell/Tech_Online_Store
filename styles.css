@@ -17,12 +17,12 @@
     display: flex;
     align-items: center;
     color: #A2A6B0;
-    padding: 0px 0px 0px 259px;
+    margin: -2px 0px 0px 258px;
     /*letter-spacing: 1px;*/
 }
 
 .Rect1Time{
-    font-family: 'Poppins';
+    font-family: 'Poppins', sans-serif;
     font-style: normal;
     font-weight: 600;
     font-size: 12px;
@@ -30,11 +30,15 @@
     display: flex;
     align-items: center;
     color: #FFF;
-    padding-left: 13px;
+    margin: 0px 0px 0px 6px;
 }
 
+.v{
+    display: flex;
+    margin: 3px 0px 0px 5px;
+}
 .Addr{
-font-family: 'Poppins';
+font-family: 'Poppins', sans-serif;
 font-style: normal;
 font-weight: 600;
 font-size: 12px;
@@ -42,12 +46,13 @@ line-height: 18px;
 display: flex;
 align-items: center;
 text-align: center;
-padding-left:320px;
+padding: 0px 0px 0px 293px;
+margin-top: -3px;
 color: #ACACAC;
 }
 
 .contbtn{
-    font-family: 'Poppins';
+    font-family: 'Poppins', sans-serif;
 font-style: normal;
 font-weight: 600;
 font-size: 12px;
@@ -55,18 +60,27 @@ line-height: 18px;
 display: flex;
 align-items: center;
 text-align: center;
-padding-left:55px;
+padding-left:6px;
 color: #FFF;
+
+}
+
+.line{
+    padding: 8px 0px 0px 0px;
+    margin: 0px 0px 0px -1px;
+    width: 20px;
+    height: 10px;
+    position: absolute;
 }
 
 .callus{
-font-family: 'Poppins';
+font-family: 'Poppins', sans-serif;
 font-style: normal;
 font-weight: 600;
 font-size: 12px;
 line-height: 18px;
 /* identical to box height */
-padding-left:293px;
+margin: 4px 0px 0px 284px;
 display: flex;
 align-items: center;
 text-align: center;
@@ -75,11 +89,15 @@ color: #FFFFFF;
 }
 
 .facebook{
-    padding: 6px 0px 0px 33px;
+    padding: 4px 0px 0px 15px;
+    align-items: center;
+text-align: center;
 }
 
 .instagram{
-    padding: 6px 0px 0px 10px;
+    padding: 4px 0px 0px 10px;
+    align-items: center;
+    text-align: center;
 }
 
 /* HEADER 2 */
@@ -101,7 +119,7 @@ color: #FFFFFF;
 
 .tuple{
     white-space: nowrap;
-    font-family: 'Poppins';
+    font-family: 'Poppins', sans-serif;
     font-style: normal;
     font-weight: 600;
     font-size: 14px;
@@ -113,7 +131,7 @@ color: #FFFFFF;
 }
 .tuple2{
     white-space: nowrap;
-    font-family: 'Poppins';
+    font-family: 'Poppins', sans-serif;
     font-style: normal;
     font-weight: 600;
     font-size: 14px;
@@ -121,11 +139,11 @@ color: #FFFFFF;
     display: flex;
     align-items: center;
     text-align: center;
-    padding: 0px 0px 0px 37px;
+    padding: 0px 0px 0px 29px;
 }
 .tuple3{
     white-space: nowrap;
-    font-family: 'Poppins';
+    font-family: 'Poppins', sans-serif;
     font-style: normal;
     font-weight: 600;
     font-size: 14px;
@@ -133,11 +151,11 @@ color: #FFFFFF;
     display: flex;
     align-items: center;
     text-align: center;
-    padding: 0px 0px 0px 37px;
+    padding: 0px 0px 0px 25px;
 }
 .tuple4{
     white-space: nowrap;
-    font-family: 'Poppins';
+    font-family: 'Poppins', sans-serif;
     font-style: normal;
     font-weight: 600;
     font-size: 14px;
@@ -145,11 +163,11 @@ color: #FFFFFF;
     display: flex;
     align-items: center;
     text-align: center;
-    padding: 0px 0px 0px 47px;
+    padding: 0px 0px 0px 26px;
 }
 .tuple5{
     white-space: nowrap;
-    font-family: 'Poppins';
+    font-family: 'Poppins', sans-serif;
     font-style: normal;
     font-weight: 600;
     font-size: 14px;
@@ -157,11 +175,11 @@ color: #FFFFFF;
     display: flex;
     align-items: center;
     text-align: center;
-    padding: 0px 0px 0px 42px;
+    padding: 0px 0px 0px 26px;
 }
 .tuple6{
     white-space: nowrap;
-    font-family: 'Poppins';
+    font-family: 'Poppins', sans-serif;
     font-style: normal;
     font-weight: 600;
     font-size: 14px;
@@ -169,11 +187,11 @@ color: #FFFFFF;
     display: flex;
     align-items: center;
     text-align: center;
-    padding: 0px 0px 0px 35px;
+    padding: 0px 0px 0px 28px;
 }
 .tuple7{
     white-space: nowrap;
-    font-family: 'Poppins';
+    font-family: 'Poppins', sans-serif;
     font-style: normal;
     font-weight: 600;
     font-size: 14px;
@@ -181,28 +199,28 @@ color: #FFFFFF;
     display: flex;
     align-items: center;
     text-align: center;
-    padding: 0px 0px 0px 38px;
+    padding: 0px 0px 0px 26px;
 }
 .OurDeals{
 display: flex;
 align-items: center;
 text-align: center;
-padding: 6px 26px 6px 26px;
-margin: 0px 0px 0px 33px;
+padding: 6px 24px 6px 24px;
+margin: -2px 0px 0px 25px;
 border: 2px solid #0156FF;
 color: #0156FF;
 border-radius: 50px;
 
-font-family: 'Poppins';
+font-family: 'Poppins', sans-serif;
 font-style: normal;
 font-weight: 600;
-font-size: 15px;
+font-size: 14px;
 line-height: 21px;
 }
 .seacrh{
     position: absolute;
     display: flex;
-    padding: 4px 0px 0px 266px;
+    padding: 6px 0px 0px 268px;
     align-items: center;
     text-align: center;
 }
