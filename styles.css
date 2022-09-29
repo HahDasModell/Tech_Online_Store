@@ -255,7 +255,7 @@ line-height: 21px;
     left: 262px;
     top: 136px;
     display: flex;
-    margin: 0px 0px 0px 1px;
+    margin: 0px 0px 0px 0px;
 }
 
 .Rect16{
@@ -293,7 +293,7 @@ width: 232px;
 height: 22px;
 left: 1427px;
 top: 509px;
-margin: 0px 0px 0px 1px;
+margin: 0px 0px 0px 0px;
 font-family: 'Poppins';
 font-style: normal;
 font-weight: 400;
@@ -364,7 +364,116 @@ width: 234px;
 height: 346px;
 left: 262px;
 top: 548px;
-border: 1px solid black;
+
+}
+
+.twov{
+    display: flex;
+    position: absolute;
+    padding: 135px 0px 0px 1164px;
+}
+
+.StockAv{
+    display: flex;
+    position: absolute;
+    width: 58px;
+    height: 12px;
+    margin: -128px 0px 0px 32px;
+}
+
+.ProdPic{
+    display: flex;
+    position: absolute;
+    margin: 19px 0px 0px 10px;
+}
+
+.starsfull{
+    display: flex;
+    position: absolute;
+    margin: 160px 0px 0px -18px;
+}
+
+.Reviews{
+    display: flex;
+    position: absolute;
+    margin: -78px 0px 0px 83px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 210%;
+    /* or 25px */
+    color: #A2A6B0;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    white-space: nowrap;
+}
+
+
+  
+.name1{
+    display: flex;
+    margin: 103px 0px 0px -152px;
+    width: 185px;
+    height: 65px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 20px;
+
+    color: #000000;
+
+}
+.name2{
+    display: flex;
+    margin: 20px 0px 0px -140px;
+    width: 185px;
+    height: 65px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 20px;
+
+    color: #000000;
+
+}
+.name3{
+    display: flex;
+    margin: 20px 0px 0px -184px;
+    width: 185px;
+    height: 65px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 20px;
+
+    color: #000000;
+
+}
+.-price-{
+    display: flex;
+    color: #666666;
+    margin: 34px 0px 0px -67px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 140%;
+}
+
+.price{
+    display: flex;
+    margin: 21px 0px 0px -56px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 140%;
+    color: #000000;
 }
 
 /* tech2 */
@@ -378,10 +487,10 @@ border: 1px solid black;
     position: absolute;
     width: 234px;
     height: 346px;
-    left: 495px;
-    top: 548px;
+    left: 422px;
+    top: 681px;
     
-    border: 1px solid black;
+    
 }
 
 /* tech3 */
@@ -395,9 +504,8 @@ border: 1px solid black;
     position: absolute;
     width: 234px;
     height: 346px;
-    left: 728px;
-    top: 548px;
-    border: 1px solid black;
+    left: 655px;
+    top: 680px;
 }
 
 /* tech4 */
@@ -411,9 +519,9 @@ border: 1px solid black;
     position: absolute;
     width: 234px;
     height: 346px;
-    left: 960px;
-    top: 548px;
-    border: 1px solid black;
+    left: 887px;
+    top: 680px;
+    
 }
 
 /* tech5 */
@@ -427,9 +535,9 @@ border: 1px solid black;
     position: absolute;
     width: 234px;
     height: 346px;
-    left: 1193px;
-    top: 548px;
-    border: 1px solid black;
+    left: 1120px;
+    top: 680px;
+    
 }
 
 /* tech6 */
@@ -443,7 +551,7 @@ border: 1px solid black;
     position: absolute;
     width: 234px;
     height: 346px;
-    left: 1426px;
-    top: 548px;
-    border: 1px solid black;
+    left: 1353px;
+    top: 680px;
+    
 }
