@@ -362,11 +362,13 @@ padding: 0px;
 position: absolute;
 width: 234px;
 height: 346px;
-left: 262px;
-top: 548px;
+left: 189px;
+top: 680px;
 
 }
-
+.v4{
+    margin: 546px 0px 0px 253px;
+}
 .twov{
     display: flex;
     position: absolute;
@@ -554,4 +556,16 @@ top: 548px;
     left: 1353px;
     top: 680px;
     
+}
+
+.v5{
+    margin: -83px 0px 0px 1605px;
+}
+
+.Menu7{
+    margin: 147px 0px 0px 254px;
+}
+
+.Menu8{
+    margin: 10px 0px 0px 254px;
 }
