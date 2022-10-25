@@ -1992,7 +1992,7 @@ color: #A2A6B0;
     color: #FFFFFF;
 }
 
-.Underground4{
+/* .Underground4{
     white-space: nowrap;
     top: -34px;
     left: 833px; 
@@ -2002,7 +2002,7 @@ color: #A2A6B0;
     font-weight: 300;
     font-size: 14px;
     line-height: 20px;
-    /* or 143% */
+    
     
     display: flex;
     align-items: center;
@@ -2012,27 +2012,9 @@ color: #A2A6B0;
     border: 2px solid #FFFFFF;
     border-radius: 4px;
     padding: 13px 304px 13px 11px;
-}
+} */ 
 
-.Underground5{
-    top: -2.5px;
-    left: 412px;
-    position: absolute;
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 600;
-    font-size: 14px;
-    line-height: 21px;
-    display: flex;
-    align-items: center;
-    text-align: center;
-    
-    color: #FFFFFF;
 
-    background: #0156FF;
-    border-radius: 50px;
-    padding: 15px 40px 14px 40px;
-}
 
 .block1{
     top: 4337px;
@@ -2444,3 +2426,60 @@ opacity: 0.6;
 top:2.5px;
 left:441px;
 }
+
+.CUnderground{
+    position: absolute;
+    top: -34px;
+    left: 833px;
+    background: rgba(0, 0, 0, 0);
+    color: #FFF;
+    border: 2px solid white;
+    height: 44px;
+    width: 384px;
+    border-radius: 5px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+    text-indent: 9px;
+    color: #FFFFFF;
+}
+
+.Underground5{
+    top: -35px;
+    left: 1247px;
+    position: absolute;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    border: none;
+    
+    color: #FFFFFF;
+
+    background: #0156FF;
+    border-radius: 50px;
+    padding: 15px 40px 14px 40px;
+
+    cursor: pointer;
+    /* box-shadow: 5px 5px 5px rgb(201, 181, 181); */
+}
+
+button.Underground5:hover {
+    background: #4322ff;
+    transform: translate(0px, 1px);
+    transition: 0.1s;
+}
+
+button.Underground5:active {
+    background: #2e1f8d;
+    transform: translate(0px, 2px);
+    border: solid 5px rgb(243, 240, 56);
+}
+ 
