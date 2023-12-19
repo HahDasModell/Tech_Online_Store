@@ -1,5 +1,4 @@
 /* HEADER */
-
 .Rectangle1{
     width: 1920px;
 	height: 44px;
@@ -1954,7 +1953,7 @@ color: #A2A6B0;
 .Underground{
     position: absolute;
     width: 1920px;
-    height: 520px;
+    height: 550px;
     left: 0px;
     top: 4164px;
 }
@@ -2482,4 +2481,11 @@ button.Underground5:active {
     transform: translate(0px, 2px);
     border: solid 5px rgb(243, 240, 56);
 }
- 
+
+body, html {
+    margin: 0
+   }
+
+.foot{
+    background: no-repeat url("../../img/Underground.jpg");
+}
